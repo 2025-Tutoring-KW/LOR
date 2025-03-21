@@ -25,7 +25,7 @@ int main(void) {
 
 	}
 	printf("100");
-
+	return 0;
 		
 	
 }
